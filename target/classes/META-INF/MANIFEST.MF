@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TestProjectBru2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Amnuay Kleepmuang
+Implementation-Vendor-Id: com.bru
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TestProjectBru2
+Created-By: Maven Integration for Eclipse
+
